@@ -12,7 +12,7 @@ event_url: https://community.riscv.org/e/m42v37
 #   postcode: '94305'
 #   country: United States
 
-summary: A on register level configuration for a RISC-V-based Microcontroller, RISC-V Toolchains and OpenOCD to flash baremetal firmware in a microcontroller.
+summary: A tutorial on register level configuration for a RISC-V-based Microcontroller, RISC-V Toolchains and OpenOCD to flash baremetal firmware in a microcontroller.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
