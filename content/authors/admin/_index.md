@@ -1,42 +1,37 @@
 ---
 # Display name
-title: Pawan Kumar Sanjaya
+title: Muhammad Hammad Bashir
 
 # Full name (for SEO)
-first_name: Pawan Kumar
-last_name: Sanjaya
+first_name: Muhammad Hammad
+last_name: Bashir
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Design Verification Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University Of Toronto
-    url: https://www.utoronto.ca/
-  - name: embARC Research Group
-    url: https://nandita-research-website-tan.vercel.app/
+  - name: 10xEngineers
+    url: https://10xengineers.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests broadly lie in the domains of Computer Architecture, Hardware Security and Systems.
 
 # Interests to show in About widget
 interests:
-  - Heterogeneous Architectures
+  - Computer Architecture
   - Hardware Security
-  - Domain Specific Hardware Design
+  - Design Verification
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of Toronto
-      year: 2023-
-    - course: Bachelor of Technology(hons) + Master of Technology in Computer Engineering
-      institution: IIITDM Kancheepuram
-      year: 2016-2021
+    - course: BSc Electrical Engineering
+      institution: University of Engineering and Technology (UET), Lahore
+      year: 2020 - 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,22 +40,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pawan.sanjaya@mail.utoronto.ca'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/pawanksanjaya
+    link: 'mailto:hammad.bashir543@gmail.com'
+  # - icon: 
+  #   icon_pack: fab
+  #   link: https://x.com/
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: gitlab
-    icon_pack: fab
-    link: https://gitlab.com/pawks
+  # - icon: gitlab
+  #   icon_pack: fab
+  #   link: https://gitlab.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/pawks
+    link: https://github.com/muhammadhammad001
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/spawankumar
+    link: https://www.linkedin.com/in/muhammad-hammad-bashir/?originalSubdomain=pk
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -76,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Pawan is an aspiring researcher in Computer Architecture primarily focussing on heterogeneous systems and domain specific architectures. He is currently pursuing his PhD in Computer Science at University of Toronto.
+Hammad is a Verification Engineer at 10xEngineers and an active open-source contributor to the RISC-V community. He has implemented support for key privilege architecture extensions, including virtual memory and physical memory protection, within the RISC-V ISAC (a tool part of the RISCOF framework). Additionally, he has developed architectural tests and covergroups for these extensions. Hammad is also passionate about embedded programming, focusing on low-level hardware interactions and firmware development.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
