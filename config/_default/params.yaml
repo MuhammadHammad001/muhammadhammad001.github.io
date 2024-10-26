@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     org_name: 'Muhammad Hammad Bashir'
-    description: 'Researcher in Computer Architecture and Secure Computing'
+    description: 'Design verification Engineer and a Researcher in Computer Architecture and Secure Computing'
     linkedin: 'Muhammad Hammad Bashir'  # if available
 
 # marketing:
@@ -106,9 +106,6 @@ features:
   #   zoom: 15
 
 # Extensions
-
-avatar:
-  shape: rounded  # Or 'circle' for a fully circular display
 
 extensions:
   # cms:
