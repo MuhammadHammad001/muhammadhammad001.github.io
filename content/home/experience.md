@@ -22,64 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: RTL not a Design Engineer
-    company: InCore Semiconductors Pvt. Ltd. 
-    company_url: 'https://incoresemi.com/'
+  - title: Design Verification Engineer
+    company: 10xEngineers 
+    company_url: 'https://10xengineers.ai/'
     company_logo: 
-    location:
-    date_start: '2021-06-01'
-    date_end: '2023-08-01'
+    location: Lahore
+    date_start: '2023-09-01'
+    date_end:
     description: |2-
 
-        * Design and implement micro-architectural improvements for a 6stage in-order RISC-V Cores.
-        * Design Multi-core RISC-V processor with hierarchial and coherent Caches.
-        * Conceptualised and directed implementation of various features for key tools in the RISC‐V Architectural Testing ecosystem for testing various extensions in the specification. 
-
-  - title: RTL Design Intern
-    company: InCore Semiconductors Pvt. Ltd. 
-    company_url: 'https://incoresemi.com/'
+        * Collaborated with Mr. Allen Baum, Vice-Chair of the RISC-V ISA Infrastructure Horizontal Committee, on a open-source project to enhance Privilege Architecture support in the RISC-V ISAC, a key coverage tool within the RISCOF compliance framework.
+        * Developed a translator within the RISC-V ISAC to optimize the input CGF format (derived from YAML), significantly reducing covergroup size for users and improving tool efficiency.
+        * Authored covergroups for Physical Memory Protection and assisted Mr. Umer Shahid, Vice-Chair of the RVI Architecture Test SIG WG, in writing RISC-V assembly tests for Physical Memory Protection, contributing to the robustness of the compliance suite.
+        * Contributed to the completion of the SV32 Virtual Memory test plan for CVA6, ensuring its alignment with RISC-V specifications.
+  - title: Associate Design Verification Engineer
+    company: 10xEngineers 
+    company_url: 'https://10xengineers.ai/'
     company_logo: 
-    location:
-    date_start: '2021-05-30'
-    date_end: '2020-12-01'
+    location: Lahore
+    date_start: '2023-03-01'
+    date_end: '2023-08-30'
     description: |2-
-        * Explore automatic generation of coherent cache subsystem from SSP.
-  - title: Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras 
+        * Successfully completed a rigorous 6-month training program in SystemVerilog for Verification, acquiring a robust foundation in advanced verification techniques.
+        * Completed coursework in advanced Computer Architecture and RISC-V assembly, expanding knowledge and technical expertise.
+        * Contributed to the verification efforts of the AMBA - AHB3 Lite Protocol, gaining practical experience in protocol verification.
+  - title: Lab Assistant
+    company: Digital Systems Design Lab, UET Lahore
     company_url: ''
     company_logo: 
-    location: Chennai
-    date_start: '2020-05-01'
-    date_end: '2020-10-30'
+    location: UET Lahore
+    date_start: '2023-01-01'
+    date_end: '2023-05-30'
     description: |2-
-        * Designed and implemented a secure boot solution for Shakti RISC‐V cores. The solution consisted of a signing tool, framework and run‐time libraries to be integrated with the firmware.
-        * Designed extensions to support higher level API calls and provide better security guarantees.
-        * Proposed a scheme to support trusted execution environments using a co‐processor by analysing various solutions such as Intel SGX, Sanctum and Keystone.
-
+        * Facilitated lab sessions and mentored students, contributing to the development of course materials. Created instructional content and delivered personalized support to enhance students’ understanding of SystemVerilog and application of course concepts.
   - title: Summer Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras 
+    company: Digital Systems Design Lab, UET Lahore
     company_url: ''
     company_logo: 
-    location: Chennai
-    date_start: '2019-05-01'
-    date_end: '2019-07-30'
+    location: UET Lahore
+    date_start: '2022-06-01'
+    date_end: '2022-08-30'
     description: |2-
-        * Evaluated various methods to generate bluespec code for SOCs based on a given configuration. Implemented a tool which could automatically generate SOCs with optimal address mappings for heterogeneous and hierarchical busses.
-        * Identified key csr configuration options in the RISC‐V ISA and designed a scheme to describe the custom behaviours. Implemented an open‐source tool([riscv-config](https://github.com/riscv-software-src/riscv-config)) in python to validate descriptions and verify legality of behaviours.
-        * Evaluated various strategies for RISC‐V architectural compliance testing and implemented a dynamic, scalable and easy‐to‐use open‐source framework([riscof](https://github.com/riscv-software-src/riscof)) based on the best strategy.
-
-  - title: Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras
-    company_url: ''
-    company_logo: 
-    location: Chennai
-    date_start: '2018-05-01'
-    date_end: '2018-07-30'
-    description: |2- 
-        * Designed and developed a pipelined and multi‐cycle SHA 256 accelerator in Bluespec System Verilog.
-        * Optimised the design for area, delay and power on the Xilinx Artix‐7 FPGA.
-        * Verified the correctness using NIST test vectors
-
+        * Engaged in hands-on experience with System Verilog, focusing on the RISC-V-based open-source CVA6 core.
+        * Worked on manual synthesis of RTL-level diagrams from SystemVeriog code, contributing to in-depth analysis
+          and understanding of digital systems and design.
 
 design:
   columns: '1'
