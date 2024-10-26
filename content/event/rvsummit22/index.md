@@ -1,8 +1,8 @@
 ---
 title: "Embedded Systems with RISC-V: Bare-Metal Firmware Development for CH32V003 Microcontrollers"
 
-event: RISC-V Summit 2022
-event_url: 
+event: RISC-V Community Event (RISC-V Connect)
+event_url: https://community.riscv.org/e/m42v37
 
 # location: Wowchemy HQ
 # address:
