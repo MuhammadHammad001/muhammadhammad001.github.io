@@ -1,5 +1,5 @@
 ---
-title: Using riscof for RISC-V Architectural Testing
+title: "Embedded Systems with RISC-V: Bare-Metal Firmware Development for CH32V003 Microcontrollers"
 
 event: RISC-V Summit 2022
 event_url: 
@@ -12,11 +12,11 @@ event_url:
 #   postcode: '94305'
 #   country: United States
 
-summary: A tutorial on getting started with riscof for performing RISC-V Architectural Testing on implementations.
+summary: A tutorial on register level configuration for a RISC-V-based Microcontroller, RISC-V Toolchains and OpenOCD to flash baremetal firmware in a microcontroller.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-15'
+date: '2024-11-02'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -43,8 +43,8 @@ featured: false
 # links:
 #   - name: Slides
 #     url: 'content/event/rvsummit22/act_tutorial.pdf'
-url_slides: 'artifacts/rvsummit22.pdf'
-url_video: 'https://youtu.be/IcPbrMVCWrU'
+# url_slides: 'artifacts/rvsummit22.pdf'
+# url_video: 'https://youtu.be/IcPbrMVCWrU'
 
 #  Markdown Slides (optional).
 #    Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ url_video: 'https://youtu.be/IcPbrMVCWrU'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - riscof
+# projects:
+#   - riscof
 ---
 
