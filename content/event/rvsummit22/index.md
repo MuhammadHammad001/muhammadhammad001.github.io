@@ -17,6 +17,7 @@ summary: A tutorial on register level configuration for a RISC-V-based Microcont
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-02'
+time: '10:30'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
