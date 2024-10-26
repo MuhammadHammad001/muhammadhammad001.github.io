@@ -13,6 +13,13 @@ appearance:
 
 # SEO
 
+marketing:
+  seo:
+    site_type: Person
+    org_name: 'Muhammad Hammad Bashir'
+    description: 'Researcher in Computer Architecture and Secure Computing'
+    linkedin: 'Muhammad Hammad Bashir'  # if available
+
 # marketing:
 #   seo:
 #     site_type: Person
@@ -43,7 +50,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Muhammad Hammad Bashir | All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
@@ -53,16 +60,16 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Oct 6, 2024'
+  time_format: '6:55 PM'
   address_format: en-us
 
 # Site features
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: solarized-light
+    theme_dark: monokai
   math:
     enable: false
   privacy_pack:
@@ -99,6 +106,9 @@ features:
   #   zoom: 15
 
 # Extensions
+
+avatar:
+  shape: rounded  # Or 'circle' for a fully circular display
 
 extensions:
   # cms:

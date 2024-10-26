@@ -50,7 +50,7 @@ experience:
     company: Digital Systems Design Lab, UET Lahore
     company_url: ''
     company_logo: 
-    location: UET Lahore
+    location: Lahore
     date_start: '2023-01-01'
     date_end: '2023-05-30'
     description: |2-
@@ -59,7 +59,7 @@ experience:
     company: Digital Systems Design Lab, UET Lahore
     company_url: ''
     company_logo: 
-    location: UET Lahore
+    location: Lahore
     date_start: '2022-06-01'
     date_end: '2022-08-30'
     description: |2-
