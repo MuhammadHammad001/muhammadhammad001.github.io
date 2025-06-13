@@ -59,10 +59,10 @@ footer:
 
 # Localization
 
-locale:
-  date_format: 'Oct 6, 2024'
-  time_format: '6:55 PM'
-  address_format: en-us
+# locale:
+#   date_format: 'Oct 6, 2024'
+#   time_format: '6:55 PM'
+#   address_format: en-us
 
 # Site features
 

@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -16,6 +16,13 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Poster Presentation
+      tag: Poster
+    # - name: arch-test
+    #   tag: Architectural Compatibility Testing
   filters:
     folders:
       - publication
@@ -32,10 +39,13 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+
+
 ---
 
 <!-- {{% callout note %}} -->

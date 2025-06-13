@@ -11,7 +11,7 @@ authors:
 - Neel Gala
 - Allen Baum
 tags: []
-categories: 
+categories:
 - RISC-V
 - Architectural Compatibility Testing
 date: '2022-06-01'
@@ -23,7 +23,8 @@ links:
     url: /project/riscv-isac
   - name: riscv-isac
     url: /project/riscv-ctg
-
+tags:
+  - Poster
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -54,5 +55,5 @@ abstract: Considering the modularity of RISC-V, proving the compatibility of imp
 publication: '*Sixth Workshop on Computer Architecture Research with RISC-V, Co-located
   with ISCA*'
 url_pdf: https://carrv.github.io/2022/papers/CARRV2022_paper_2_Kumar.pdf
-url_slides: https://carrv.github.io/2022/slides/CARRV2022_slides_2_Kumar.pdf 
+url_slides: https://carrv.github.io/2022/slides/CARRV2022_slides_2_Kumar.pdf
 ---
