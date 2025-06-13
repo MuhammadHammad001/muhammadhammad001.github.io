@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Design Verification Engineer
-    company: 10xEngineers 
+    company: 10xEngineers
     company_url: 'https://10xengineers.ai/'
-    company_logo: 
+    company_logo:
     location: Lahore
     date_start: '2023-09-01'
     date_end:
@@ -36,9 +36,9 @@ experience:
         * Authored covergroups for Physical Memory Protection and assisted Mr. Umer Shahid, Vice-Chair of the RVI Architecture Test SIG WG, in writing RISC-V assembly tests for Physical Memory Protection, contributing to the robustness of the compliance suite.
         * Contributed to the completion of the SV32 Virtual Memory test plan for CVA6, ensuring its alignment with RISC-V specifications.
   - title: Associate Design Verification Engineer
-    company: 10xEngineers 
+    company: 10xEngineers
     company_url: 'https://10xengineers.ai/'
-    company_logo: 
+    company_logo:
     location: Lahore
     date_start: '2023-03-01'
     date_end: '2023-08-30'
@@ -49,7 +49,7 @@ experience:
   - title: Lab Assistant
     company: Digital Systems Design Lab, UET Lahore
     company_url: ''
-    company_logo: 
+    company_logo:
     location: Lahore
     date_start: '2023-01-01'
     date_end: '2023-05-30'
@@ -58,7 +58,7 @@ experience:
   - title: Summer Research Intern
     company: Digital Systems Design Lab, UET Lahore
     company_url: ''
-    company_logo: 
+    company_logo:
     location: Lahore
     date_start: '2022-06-01'
     date_end: '2022-08-30'

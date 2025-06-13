@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: elegant
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     org_name: 'Muhammad Hammad Bashir'
-    description: 'Design verification Engineer and a Researcher in Computer Architecture and Secure Computing'
+    description: 'Design verification Engineer and a Researcher in Computer Architecture and Hardware Security, Secure Computing'
     linkedin: 'Muhammad Hammad Bashir'  # if available
 
 # marketing:
@@ -39,8 +39,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
+    align: c
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true

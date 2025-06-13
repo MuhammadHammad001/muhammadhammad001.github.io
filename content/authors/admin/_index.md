@@ -10,25 +10,29 @@ last_name: Bashir
 superuser: true
 
 # Role/position/tagline
-role: Design Verification Engineer
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 10xEngineers
-    url: https://10xengineers.ai/
+  - name: PSec Lab, Penn State University
+    url: https://github.com/PSecLab
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly lie in the domains of Computer Architecture, Hardware Security and Systems.
+bio: My research interests broadly lie in the domains of Hardware Security, Firmware Analysis and Computer Architecture.
 
 # Interests to show in About widget
 interests:
-  - Computer Architecture
   - Hardware Security
-  - Design Verification
+  - Firmware Analysis
+  - Computer Architecture
+  - Design Verification Techniques
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD Computer Science
+      institution: The Pennsylvania State University
+      year: 2025 - Present
     - course: BSc Electrical Engineering
       institution: University of Engineering and Technology (UET), Lahore
       year: 2020 - 2024
@@ -41,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hammad.bashir543@gmail.com'
-  # - icon: 
+  # - icon:
   #   icon_pack: fab
   #   link: https://x.com/
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -70,7 +74,13 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+## Hi 👋, I'm Hammad
 
-Hammad is a Verification Engineer at 10xEngineers and an active open-source contributor to the RISC-V community. He has implemented support for key privilege architecture extensions, including virtual memory and physical memory protection, within the RISC-V ISAC (a tool part of the RISCOF framework). Additionally, he has developed architectural tests and covergroups for these extensions. Hammad is also passionate about embedded programming, focusing on low-level hardware interactions and firmware development.
+I'm an incoming **Hardware Security researcher** at [**PSec Lab**](https://github.com/PSecLab), *Penn State University*.
 
+I’ve contributed to **RISC-V compliance verification** and **embedded systems**, working on tools like **RISCOF**, the **RISC-V Sail model**, and **RISC-V Architectural Tests**.
+
+Currently, I’m exploring **firmware analysis**, **reverse engineering**, and **microarchitectural attacks**.
+
+📫 *Feel free to reach out for research collaborations!*
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -25,7 +25,7 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: pawan.sanjaya@mail.utoronto.ca
+  email: hammad.bashir543@gmail.com
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
@@ -44,18 +44,14 @@ content:
 #  appointment_url: 'https://calendly.com'
 
   contact_links:
-    - icon: gitlab
-      icon_pack: fab
-      name: Gitlab
-      link: https://gitlab.com/pawks
     - icon: github
       name: Github
       icon_pack: fab
-      link: https://github.com/pawks
+      link: https://github.com/MuhammadHammad001
     - icon: linkedin
       name: LinkedIn
       icon_pack: fab
-      link: https://www.linkedin.com/in/spawankumar
+      link: https://www.linkedin.com/in/muhammad-hammad-bashir/?originalSubdomain=pk
 
 design:
   columns: '2'
