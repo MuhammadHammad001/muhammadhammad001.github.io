@@ -1,28 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Automating Generation and Maintenance of a High-Quality Architectural Test
-  Suite for RISC-V
+title: Enhancing Privilege Architecture Support in RISC-V ISAC
 subtitle: ''
 summary: ''
 authors:
-- S Pawan Kumar
-- Shrreya Singh
-- Neel Gala
+- Muhammad Hammad Bashir
+- Umer Shahid
 - Allen Baum
+- S Pawan Kumar
 tags: []
 categories:
 - RISC-V
-- Architectural Compatibility Testing
-date: '2022-06-01'
-lastmod: 2022-10-01T19:24:50+05:30
+# - Architectural Compatibility Testing
+date: '2024-06-01'
+lastmod: 2025-10-01T19:24:50+05:30
 featured: false
 draft: false
-links:
-  - name: riscv-isac
-    url: /project/riscv-isac
-  - name: riscv-isac
-    url: /project/riscv-ctg
+# links:
+#   - name: riscv-isac
+#     url: /project/riscv-isac
+#   - name: riscv-isac
+#     url: /project/riscv-ctg
 tags:
   - Poster
 # Featured image
@@ -40,20 +39,22 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-publishDate: '2022-10-01T13:54:50.715773Z'
+publishDate: '2024'
 publication_types:
-- '1'
-abstract: Considering the modularity of RISC-V, proving the compatibility of implementations
-  against the ISA has become critical to prevent fragmentation and ensure its success.
-  The test suite needed to achieve this should cater to all legal enumerations of
-  the ISA and determine with high confidence, the ISA compatibility of the target.
-  This paper proposes open-source tools(RISCV-ISAC and RISCV- CTG) which significantly
-  automate building and maintenance of a high quality and scalable test suite. RISCV-ISAC
-  collects coverage from execution logs and checks for data propagation to signature.
-  RISCV-CTG is a coverage driven test generator, which generates minimal tests for
-  maximum coverage with RISCV-ISAC.
-publication: '*Sixth Workshop on Computer Architecture Research with RISC-V, Co-located
-  with ISCA*'
-url_pdf: https://carrv.github.io/2022/papers/CARRV2022_paper_2_Kumar.pdf
-url_slides: https://carrv.github.io/2022/slides/CARRV2022_slides_2_Kumar.pdf
+- '9'
+abstract: RISCOF, a Python-based framework, ensures RISC-V processor
+  implementations comply with instruction set simulators like Spike and
+  Sail. It supports both manual and automated test suite generation via
+  RISC-V CTG, with coverage analysis performed through RISC-V ISAC.
+  However, the coverage analysis of privilege architectural tests has been
+  limited due to incomplete support in RISC-V ISAC. To address this, we
+  have introduced new features in RISC-V ISAC specifically for privileged
+  architecture, along with a more efficient method for writing coverpoints.
+  These enhancements aim to improve compliance testing comprehensively.
+publication: '*RISC-V Summit Europe, Munich, Germany*'
+url_source: https://riscv-europe.org/summit/2024/posters#:~:text=Enhancing%20Privileged%20Architecture%20Support%20in%20RISC%2DV%20ISAC
+url_poster: upload/enhancing_privilege_architecture_riscveusummit24.pdf
+url_pdf: upload/Extended_Abstract 9_Enhancing_Priv_ISAC.pdf
+url_code: https://github.com/riscv-software-src/riscv-isac/pull/80
+# url_slides: https://carrv.github.io/2022/slides/CARRV2022_slides_2_Kumar.pdf
 ---
