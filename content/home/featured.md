@@ -26,7 +26,7 @@ content:
     publication_type: ''
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 
 design:
   # Choose a view for the listings:
