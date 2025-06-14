@@ -60,6 +60,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/muhammad-hammad-bashir/?originalSubdomain=pk
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/hammadbashir92/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -76,7 +79,7 @@ highlight_name: true
 ---
 ## Hi 👋, I'm Hammad
 
-I'm an incoming **Hardware Security researcher** at [**PSec Lab**](https://github.com/PSecLab), *Penn State University*.
+I'm an incoming **Hardware Security researcher** at [**PSec Lab**](https://github.com/PSecLab), *Penn State University* under the supervision of _Prof_. [**_Arslan Khan_**](https://arslan8.github.io/).
 
 I’ve contributed to **RISC-V compliance verification** and **embedded systems**, working on tools like **RISCOF**, the **RISC-V Sail model**, and **RISC-V Architectural Tests**.
 

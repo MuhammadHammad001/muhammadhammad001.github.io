@@ -52,6 +52,10 @@ content:
       name: LinkedIn
       icon_pack: fab
       link: https://www.linkedin.com/in/muhammad-hammad-bashir/?originalSubdomain=pk
+    - icon: instagram
+      name: Instagram
+      icon_pack: fab
+      link: https://www.instagram.com/hammadbashir92/
 
 design:
   columns: '2'
