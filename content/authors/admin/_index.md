@@ -79,11 +79,13 @@ highlight_name: true
 ---
 ## Hi 👋, I'm Hammad
 
-I'm an incoming **Hardware Security researcher** at [**PSec Lab**](https://github.com/PSecLab), *Penn State University* under the supervision of _Prof_. [**_Arslan Khan_**](https://arslan8.github.io/).
+I'm a **Security researcher** at [**PSec Lab**](https://github.com/PSecLab), *Penn State University* under the supervision of _Prof_. [**_Arslan Khan_**](https://arslan8.github.io/).
 
 I’ve contributed to **RISC-V compliance verification** and **embedded systems**, working on tools like **RISCOF**, the **RISC-V Sail model**, and **RISC-V Architectural Tests**.
 
 Currently, I’m exploring **firmware analysis**, **reverse engineering**, and **microarchitectural attacks**.
 
 📫 *Feel free to reach out for research collaborations!*
+
+_Last Updated: Oct 2, 2025_
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
